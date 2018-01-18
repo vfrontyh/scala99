@@ -75,4 +75,8 @@ object Hey extends App{
   val fibs = fibFrom(1,1).take(100)
 
   println(fibs.toList)
+
+
+  val set = collection.immutable.TreeSet.empty[Int]
+  set + 1 + 3 + 3
 }

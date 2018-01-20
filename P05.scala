@@ -1,4 +1,4 @@
-object Questions5 extends App{
+object P05 extends App{
     def reverse(ls : List[_]) : List[_]={
       ls.reverse
     }

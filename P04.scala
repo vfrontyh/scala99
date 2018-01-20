@@ -1,4 +1,4 @@
-object Questions4 extends App{
+object P04 extends App{
     def length(ls : List[_]) : Int = {
       ls.length
     }

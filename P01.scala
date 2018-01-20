@@ -1,4 +1,4 @@
-object Questions1 extends App{
+object P01 extends App{
 
   def last(ls : List[_]) : Any = ls match{
    // When list is empty, not sure what to return.. I just return null..

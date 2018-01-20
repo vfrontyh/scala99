@@ -1,4 +1,4 @@
-object Questions extends App{
+object P07 extends App{
 
   def flatten (args : List[Any])  : List[Any] = args match{
     case Nil => { println("CASE 1 "); Nil }

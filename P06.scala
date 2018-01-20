@@ -1,4 +1,4 @@
-object Questions6 extends App{
+object P06 extends App{
     def palindrome(ls : List[_]) : Boolean ={
       ls.reverse.equals(ls)
     }

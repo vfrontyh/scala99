@@ -1,4 +1,4 @@
-object Questions2 extends App{
+object P02 extends App{
 
   def penultimate(ls : List[_]) : Any = {
     if(ls.length<2) null

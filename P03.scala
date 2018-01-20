@@ -1,4 +1,4 @@
-object Questions3 extends App{
+object P03 extends App{
 
 
   def nth(pos: Int,ls : List[Any]) : Any = {

@@ -1,8 +1,8 @@
 object Questions2 extends App{
 
   def penultimate(ls : List[_]) : Any = {
-    if(ls.length<2) return null
-    else return ls.reverse.tail.head
+    if(ls.length<2) null
+    else ls.reverse.tail.head
 
   }
 

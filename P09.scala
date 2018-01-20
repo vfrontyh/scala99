@@ -28,7 +28,7 @@ object P09 extends App{
     }
 
   println(packed_list.reverse)
-  return packed_list.reverse
+  packed_list.reverse
 
 }
   pack(List('a,'a,'a,'b,'c,'d,'d))
